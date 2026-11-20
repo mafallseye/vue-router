@@ -1,7 +1,31 @@
-# Vue 3 + Vite
+<p align="center"><img src="docs/banner.png" alt="Exercice Vue Router — Navigation entre pages avec Vue Router" width="100%"></p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Exercice Vue Router
 
-## Recommended IDE Setup
+Exercice Vue Router : navigation entre les pages Home, About et Movies.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Fonctionnalités
+
+- Routes Home, About et Movies
+- Navigation sans rechargement de page
+
+## Technologies
+
+Vue 3 · Vue Router · Vite
+
+## Lancer le projet
+
+Prérequis : Node.js 18 ou plus.
+
+```bash
+git clone https://github.com/mafallseye/vue-router.git
+cd vue-router
+npm install
+npm run dev
+```
+
+> Projet réalisé en 2022 pendant ma formation. Il est conservé ici comme trace de mon parcours.
+
+## Auteure
+
+**Maguette Fall SEYE** — Développeuse Full Stack, Dakar (Sénégal) · [github.com/mafallseye](https://github.com/mafallseye)
